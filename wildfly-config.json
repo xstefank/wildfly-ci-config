@@ -1,0 +1,10 @@
+[
+  {
+    "property": "version.org.wildfly.core",
+    "version": "https://thunder.sin2.redhat.com/jenkins/view/tmp/job/mstefank-wildfly-core-nightly/lastSuccessfulBuild/artifact/version.txt"
+  },
+  {
+    "property": "version.com.fasterxml.jackson-databind",
+    "version": "https://thunder.sin2.redhat.com/jenkins/view/tmp/job/mstefank-jackson-databind-nighly/lastSuccessfulBuild/artifact/version.txt"
+  }
+]
